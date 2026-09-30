@@ -1,0 +1,11 @@
+R >= 4.1.0
+
+shiny
+bslib
+dplyr
+tidyr
+lubridate
+ggplot2
+plotly
+cluster
+scales

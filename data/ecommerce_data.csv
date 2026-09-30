@@ -1,0 +1,151 @@
+CustomerID,OrderID,OrderDate,ProductName,Category,Quantity,Price,PaymentMethod,City
+CUST016,ORD0001,2023-01-13,Desk,Home,1,87.73,UPI,Philadelphia
+CUST028,ORD0002,2023-10-07,Lamp,Home,1,66.78,Credit Card,Los Angeles
+CUST035,ORD0003,2023-01-14,Sneakers,Clothing,1,46.1,Debit Card,New York
+CUST022,ORD0004,2023-03-23,Lotion,Beauty,1,32.38,Debit Card,New York
+CUST023,ORD0005,2023-02-19,Headphones,Electronics,3,235.9,Cash on Delivery,Phoenix
+CUST019,ORD0006,2023-07-13,Headphones,Electronics,2,207.88,UPI,New York
+CUST015,ORD0007,2023-05-29,Lamp,Home,1,95.53,Cash on Delivery,Philadelphia
+CUST014,ORD0008,2023-03-25,Lotion,Beauty,2,28.44,UPI,Phoenix
+CUST011,ORD0009,2023-10-01,Blender,Home,1,87.33,Credit Card,Philadelphia
+CUST003,ORD0010,2023-01-29,Jacket,Clothing,1,40.12,UPI,Los Angeles
+CUST021,ORD0011,2023-10-18,Dumbbells,Sports,2,69.03,Cash on Delivery,Philadelphia
+CUST036,ORD0012,2023-05-16,Jacket,Clothing,2,38.51,Cash on Delivery,Phoenix
+CUST009,ORD0013,2023-04-23,Sneakers,Clothing,1,53.95,UPI,New York
+CUST028,ORD0014,2023-03-23,Smartphone,Electronics,1,279.21,Cash on Delivery,Phoenix
+CUST001,ORD0015,2023-10-11,Smartphone,Electronics,2,286.08,Debit Card,Philadelphia
+CUST030,ORD0016,2023-05-31,T-Shirt,Clothing,5,43.83,Debit Card,Phoenix
+CUST020,ORD0017,2023-09-17,Perfume,Beauty,1,34.95,Credit Card,Phoenix
+CUST039,ORD0018,2023-09-29,Tennis Racket,Sports,1,70.04,UPI,Chicago
+CUST016,ORD0019,2023-06-07,Lipstick,Beauty,1,26.87,Cash on Delivery,New York
+CUST009,ORD0020,2023-09-30,Running Shoes,Sports,4,66.38,Credit Card,Chicago
+CUST014,ORD0021,2023-11-07,Jeans,Clothing,2,43.62,Cash on Delivery,Philadelphia
+CUST029,ORD0022,2023-08-13,Lamp,Home,1,92.79,UPI,Chicago
+CUST015,ORD0023,2023-10-11,Smartphone,Electronics,1,223.01,UPI,Los Angeles
+CUST005,ORD0024,2023-01-17,Laptop,Electronics,1,285.96,Cash on Delivery,Los Angeles
+CUST016,ORD0025,2023-10-20,Sneakers,Clothing,3,46.37,Credit Card,New York
+CUST027,ORD0026,2023-08-09,Tablet,Electronics,3,235.43,UPI,Philadelphia
+CUST026,ORD0027,2023-11-27,Chair,Home,3,67.15,UPI,Los Angeles
+CUST028,ORD0028,2023-10-02,Laptop,Electronics,1,244.86,Credit Card,New York
+CUST035,ORD0029,2023-10-09,T-Shirt,Clothing,5,37.76,Credit Card,Los Angeles
+CUST026,ORD0030,2023-09-04,T-Shirt,Clothing,1,39.85,UPI,Houston
+CUST036,ORD0031,2023-08-21,Tablet,Electronics,1,228.52,Debit Card,Los Angeles
+CUST004,ORD0032,2023-10-24,Tennis Racket,Sports,1,65.66,Cash on Delivery,Phoenix
+CUST033,ORD0033,2023-09-29,Yoga Mat,Sports,3,51.78,UPI,Phoenix
+CUST037,ORD0034,2023-05-01,Laptop,Electronics,2,240.38,UPI,Phoenix
+CUST034,ORD0035,2023-12-03,Headphones,Electronics,4,258.37,Credit Card,Philadelphia
+CUST009,ORD0036,2023-05-03,Chair,Home,1,72.5,UPI,New York
+CUST005,ORD0037,2023-10-16,Jeans,Clothing,2,53.93,Credit Card,Chicago
+CUST011,ORD0038,2023-05-06,Serum,Beauty,3,28.43,Debit Card,Phoenix
+CUST036,ORD0039,2023-12-01,Tennis Racket,Sports,4,60.69,UPI,Los Angeles
+CUST010,ORD0040,2023-02-24,Headphones,Electronics,1,274.24,Credit Card,Philadelphia
+CUST017,ORD0041,2023-12-18,Sneakers,Clothing,1,47.42,UPI,New York
+CUST022,ORD0042,2023-05-22,Desk,Home,2,65.41,Debit Card,Los Angeles
+CUST036,ORD0043,2023-10-10,Lamp,Home,1,86.58,Credit Card,Phoenix
+CUST010,ORD0044,2023-07-09,Tablet,Electronics,1,258.25,Debit Card,Chicago
+CUST014,ORD0045,2023-01-21,Perfume,Beauty,2,34.79,Debit Card,Phoenix
+CUST010,ORD0046,2023-07-28,Perfume,Beauty,3,35.69,Credit Card,Houston
+CUST027,ORD0047,2023-06-20,Laptop,Electronics,1,278.24,UPI,Houston
+CUST030,ORD0048,2023-08-29,Lotion,Beauty,1,26.67,Credit Card,Los Angeles
+CUST018,ORD0049,2023-04-09,Smartphone,Electronics,5,239.85,Debit Card,Chicago
+CUST035,ORD0050,2023-07-24,Chair,Home,4,85.74,UPI,Chicago
+CUST039,ORD0051,2023-05-16,Tablet,Electronics,1,203.83,Debit Card,Houston
+CUST037,ORD0052,2023-09-19,Desk,Home,1,67.7,Cash on Delivery,New York
+CUST013,ORD0053,2023-10-03,Jacket,Clothing,1,48.36,Debit Card,Phoenix
+CUST020,ORD0054,2023-03-05,Jacket,Clothing,2,48.96,Debit Card,Houston
+CUST027,ORD0055,2023-10-11,Blender,Home,2,68.07,Credit Card,Phoenix
+CUST001,ORD0056,2023-07-27,Chair,Home,1,81.53,Cash on Delivery,Phoenix
+CUST029,ORD0057,2023-06-14,Desk,Home,2,78.88,Credit Card,Philadelphia
+CUST040,ORD0058,2023-09-21,Headphones,Electronics,1,266.39,Credit Card,Philadelphia
+CUST003,ORD0059,2023-04-12,Jeans,Clothing,5,38.65,UPI,Houston
+CUST025,ORD0060,2023-11-19,Sneakers,Clothing,1,46.36,Credit Card,Philadelphia
+CUST015,ORD0061,2023-02-24,Desk,Home,3,88.91,Cash on Delivery,New York
+CUST030,ORD0062,2023-03-04,Chair,Home,5,78.61,Cash on Delivery,Phoenix
+CUST036,ORD0063,2023-09-16,Serum,Beauty,3,29.12,Cash on Delivery,Houston
+CUST018,ORD0064,2023-05-07,Tablet,Electronics,2,283.99,Debit Card,Houston
+CUST022,ORD0065,2023-05-27,Headphones,Electronics,3,223.45,UPI,Los Angeles
+CUST014,ORD0066,2023-07-16,Smartphone,Electronics,1,269.39,Debit Card,Phoenix
+CUST027,ORD0067,2023-02-01,Sneakers,Clothing,4,39.72,UPI,Phoenix
+CUST020,ORD0068,2023-01-04,Sneakers,Clothing,3,52.97,Cash on Delivery,Phoenix
+CUST015,ORD0069,2023-10-07,Blender,Home,1,89.6,Cash on Delivery,Houston
+CUST026,ORD0070,2023-06-22,Laptop,Electronics,3,266.89,Credit Card,Phoenix
+CUST002,ORD0071,2023-07-21,T-Shirt,Clothing,2,46.65,Credit Card,Houston
+CUST014,ORD0072,2023-05-14,Tablet,Electronics,1,237.91,Cash on Delivery,Chicago
+CUST006,ORD0073,2023-08-04,Serum,Beauty,1,27.03,UPI,Chicago
+CUST003,ORD0074,2023-02-05,Smartphone,Electronics,4,278.12,Credit Card,New York
+CUST008,ORD0075,2023-05-03,Desk,Home,1,68.04,Debit Card,Chicago
+CUST008,ORD0076,2023-11-07,Laptop,Electronics,5,296.37,UPI,Phoenix
+CUST025,ORD0077,2023-06-09,Tablet,Electronics,4,257.58,Credit Card,New York
+CUST020,ORD0078,2023-11-18,Lamp,Home,3,71.77,UPI,Chicago
+CUST033,ORD0079,2023-12-05,Jacket,Clothing,1,42.67,Cash on Delivery,Houston
+CUST030,ORD0080,2023-07-05,Laptop,Electronics,1,263.56,Debit Card,Phoenix
+CUST030,ORD0081,2023-10-03,Serum,Beauty,3,33.3,Debit Card,Chicago
+CUST029,ORD0082,2023-02-14,Perfume,Beauty,3,27.35,Cash on Delivery,Chicago
+CUST014,ORD0083,2023-06-16,Headphones,Electronics,3,218.18,Debit Card,Chicago
+CUST036,ORD0084,2023-12-26,Lipstick,Beauty,2,34.56,Credit Card,New York
+CUST016,ORD0085,2023-07-28,Tablet,Electronics,2,248.86,Cash on Delivery,Houston
+CUST026,ORD0086,2023-02-17,Perfume,Beauty,1,27.53,Debit Card,Houston
+CUST036,ORD0087,2023-06-26,Chair,Home,1,77.62,Cash on Delivery,Chicago
+CUST013,ORD0088,2023-04-29,Jacket,Clothing,1,38.17,Credit Card,Los Angeles
+CUST038,ORD0089,2023-09-05,Headphones,Electronics,5,227.65,Credit Card,Chicago
+CUST035,ORD0090,2023-04-02,Laptop,Electronics,1,230.23,UPI,Phoenix
+CUST032,ORD0091,2023-03-06,Smartphone,Electronics,3,263.79,Debit Card,Houston
+CUST004,ORD0092,2023-06-24,Jacket,Clothing,4,39.32,Cash on Delivery,New York
+CUST037,ORD0093,2023-07-25,Lipstick,Beauty,1,29.9,Debit Card,New York
+CUST027,ORD0094,2023-03-02,Dumbbells,Sports,3,61.39,Cash on Delivery,Houston
+CUST028,ORD0095,2023-06-02,Tennis Racket,Sports,2,68.64,UPI,Phoenix
+CUST014,ORD0096,2023-02-20,Dumbbells,Sports,1,70.74,UPI,Los Angeles
+CUST001,ORD0097,2023-10-10,Tablet,Electronics,1,207.51,Cash on Delivery,Chicago
+CUST030,ORD0098,2023-05-28,Smartphone,Electronics,2,270.7,Debit Card,Philadelphia
+CUST035,ORD0099,2023-04-12,Desk,Home,2,77.6,Debit Card,Los Angeles
+CUST039,ORD0100,2023-03-26,Headphones,Electronics,1,279.26,Cash on Delivery,Philadelphia
+CUST033,ORD0101,2023-07-26,Sneakers,Clothing,1,52.97,UPI,Houston
+CUST006,ORD0102,2023-11-06,Desk,Home,5,72.01,UPI,Philadelphia
+CUST012,ORD0103,2023-10-23,Serum,Beauty,2,24.48,Cash on Delivery,Chicago
+CUST032,ORD0104,2023-10-27,Smartphone,Electronics,1,243.59,Cash on Delivery,Chicago
+CUST022,ORD0105,2023-02-23,Sneakers,Clothing,2,51.44,Debit Card,Philadelphia
+CUST006,ORD0106,2023-10-09,Tennis Racket,Sports,1,48.88,UPI,Houston
+CUST035,ORD0107,2023-01-01,Serum,Beauty,1,31.89,Credit Card,Phoenix
+CUST004,ORD0108,2023-09-13,Jeans,Clothing,1,47.26,Credit Card,Chicago
+CUST002,ORD0109,2023-12-24,Jeans,Clothing,2,44.72,Debit Card,Phoenix
+CUST008,ORD0110,2023-07-28,Tablet,Electronics,4,209.32,Credit Card,Houston
+CUST018,ORD0111,2023-05-30,Running Shoes,Sports,3,60.21,Cash on Delivery,Los Angeles
+CUST039,ORD0112,2023-03-16,Jeans,Clothing,3,42.9,Debit Card,Houston
+CUST001,ORD0113,2023-09-17,Jacket,Clothing,2,40.81,Cash on Delivery,Los Angeles
+CUST036,ORD0114,2023-09-05,Sneakers,Clothing,1,42.21,Debit Card,Los Angeles
+CUST015,ORD0115,2023-05-03,Running Shoes,Sports,1,61.72,Cash on Delivery,Philadelphia
+CUST010,ORD0116,2023-07-15,Running Shoes,Sports,5,57.27,Credit Card,Phoenix
+CUST029,ORD0117,2023-06-19,Yoga Mat,Sports,2,68.87,Cash on Delivery,New York
+CUST010,ORD0118,2023-07-29,Lamp,Home,1,91.87,Debit Card,Chicago
+CUST022,ORD0119,2023-07-23,Blender,Home,5,84.79,Cash on Delivery,Phoenix
+CUST019,ORD0120,2023-02-05,Laptop,Electronics,2,223.48,Cash on Delivery,New York
+CUST029,ORD0121,2023-12-27,Perfume,Beauty,2,34.47,UPI,New York
+CUST024,ORD0122,2023-01-29,Sneakers,Clothing,1,41.28,Cash on Delivery,Phoenix
+CUST006,ORD0123,2023-04-03,Blender,Home,2,69.44,Credit Card,Houston
+CUST017,ORD0124,2023-03-15,Running Shoes,Sports,1,53.57,UPI,Houston
+CUST005,ORD0125,2023-12-13,Running Shoes,Sports,4,61.12,Debit Card,Philadelphia
+CUST020,ORD0126,2023-12-20,Dumbbells,Sports,5,54.0,Cash on Delivery,New York
+CUST019,ORD0127,2023-10-20,Headphones,Electronics,1,235.9,Cash on Delivery,Chicago
+CUST004,ORD0128,2023-12-18,Tablet,Electronics,3,277.83,Debit Card,Los Angeles
+CUST013,ORD0129,2023-06-30,Chair,Home,2,71.01,Credit Card,Philadelphia
+CUST020,ORD0130,2023-11-18,Tablet,Electronics,1,264.63,Debit Card,Philadelphia
+CUST027,ORD0131,2023-06-01,Laptop,Electronics,1,232.67,Debit Card,Phoenix
+CUST017,ORD0132,2023-05-20,Sneakers,Clothing,5,50.95,Debit Card,Philadelphia
+CUST005,ORD0133,2023-02-28,Perfume,Beauty,3,29.62,Credit Card,Philadelphia
+CUST036,ORD0134,2023-07-23,Chair,Home,1,94.95,Cash on Delivery,New York
+CUST017,ORD0135,2023-03-05,Tablet,Electronics,3,245.48,Debit Card,New York
+CUST036,ORD0136,2023-08-30,Chair,Home,4,64.8,Credit Card,Philadelphia
+CUST020,ORD0137,2023-08-26,Tablet,Electronics,1,290.94,UPI,New York
+CUST016,ORD0138,2023-09-10,Jeans,Clothing,1,38.09,Debit Card,Philadelphia
+CUST027,ORD0139,2023-12-23,Dumbbells,Sports,3,70.7,UPI,Houston
+CUST024,ORD0140,2023-05-24,Desk,Home,1,65.05,Credit Card,Chicago
+CUST023,ORD0141,2023-12-18,Smartphone,Electronics,1,236.73,Credit Card,New York
+CUST014,ORD0142,2023-08-21,Yoga Mat,Sports,1,50.2,Debit Card,Los Angeles
+CUST036,ORD0143,2023-10-17,Dumbbells,Sports,2,52.92,Credit Card,Chicago
+CUST010,ORD0144,2023-11-02,Perfume,Beauty,2,24.03,Credit Card,New York
+CUST023,ORD0145,2023-01-14,Desk,Home,2,68.22,UPI,Los Angeles
+CUST034,ORD0146,2023-03-06,Smartphone,Electronics,2,274.17,Cash on Delivery,Houston
+CUST029,ORD0147,2023-09-20,Perfume,Beauty,4,31.12,UPI,Philadelphia
+CUST030,ORD0148,2023-12-04,Lipstick,Beauty,1,30.26,Cash on Delivery,Houston
+CUST029,ORD0149,2023-02-25,T-Shirt,Clothing,3,44.82,Debit Card,Phoenix
+CUST038,ORD0150,2023-03-06,Headphones,Electronics,1,227.5,Debit Card,Houston
